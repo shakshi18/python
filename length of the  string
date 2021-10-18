@@ -1,0 +1,4 @@
+#using len() function
+list=[1,1,1,1,1,1,1,1,1]
+a=len(list)
+print(a)
